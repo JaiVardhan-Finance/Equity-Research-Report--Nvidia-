@@ -2,7 +2,7 @@
 This document outlines the key activities and methodologies applied in conducting a comprehensive equity research project, combined with rigorous financial analysis techniques. The aim is to evaluate market trends, assess profitability, and efficiency, ensuring informed investment decisions.
 
 
-**Equity Research
+**Equity Research**
 
 Segment Analysis: Conducted a detailed analysis of various market segments to identify trends, growth potential, and competitive dynamics.
 
